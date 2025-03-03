@@ -13,7 +13,7 @@
 - [Unit 1 - Containerization with Docker]()
   - [Introduction to Docker]()
     - [Containerization concepts](./units/unit1/containerizationConcepts.md)
-    - [The docker archtiecture](./units/unit1/theDockerArchitecture.md)
+    - [The docker architecture](./units/unit1/theDockerArchitecture.md)
     - [Docker v/s VMs](./units/unit1/dockerVsVm.md)
   - [Working with Docker]()
     - [Installing Docker]()
